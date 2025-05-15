@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋I am Rutuja, I’m a passionate Software Engineer with expertise in full-stack development, API design, and backend engineering. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and also have experience with Python, MySQL, and Git. I enjoy solving complex problems, optimizing performance, and building scalable applications. I'm skilled in unit testing, API integration, and cloud-based solutions, with a focus on writing efficient, maintainable, and high-performing code. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Aqua Billing Management System",
+      "startDate": "2024",
+      "description": "Developed a secure and optimized water billing system with a PHP and MySQL backend to manage data and transactions efficiently. Integrated JavaScript-based validation to ensure data accuracy and prevent input errors. Built a responsive frontend using HTML, CSS, and JavaScript, providing a seamless user experience, and implemented debugging mechanisms to enhance system stability.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
+    },
+    {
+      "title": "Personal Portfolio",
+      "startDate": "2025",
+      "description": "Built a React.js-based personal portfolio website to showcase skills and projects, featuring a responsive UI designed with HTML, CSS, and Bootstrap. Integrated JavaScript validation for enhanced interactivity and reliable form inputs, ensuring optimal performance across all devices.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Restaurant Website",
+      "startDate": "2025",
+      "description": "Developed a restaurant reservation system using a scalable MERN stack architecture. Created API endpoints with Node.js and Express.js to handle menus, reservations, and customer feedback, while integrating MongoDB for secure data storage and optimized queries. Implemented user authentication and authorization for secure access control and optimized API calls, resulting in a 30% improvement in system performance.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain-wordmark",
+          "name": "MongoDB"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PriyaQubit PVT LTD",
+      "title": "Front-End Developer-Intern",
+      "years": "2.2025-3.2025",
+      "mainTech": [
+        "Frontend"
+      ],
+      "technologies": [
+        "REST API",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+         
+      ]
+    }
+  ]
+}
